@@ -1,0 +1,7 @@
+C:\Users\clement.thuillier\Desktop\C#\TD3 debug\TD3 debug\obj\Debug\TD3 debug.csproj.AssemblyReference.cache
+C:\Users\clement.thuillier\Desktop\C#\TD3 debug\TD3 debug\obj\Debug\TD3 debug.csproj.CoreCompileInputs.cache
+C:\Users\clement.thuillier\Desktop\C#\TD3 debug\TD3 debug\bin\Debug\TD3 debug.exe.config
+C:\Users\clement.thuillier\Desktop\C#\TD3 debug\TD3 debug\bin\Debug\TD3 debug.exe
+C:\Users\clement.thuillier\Desktop\C#\TD3 debug\TD3 debug\bin\Debug\TD3 debug.pdb
+C:\Users\clement.thuillier\Desktop\C#\TD3 debug\TD3 debug\obj\Debug\TD3 debug.exe
+C:\Users\clement.thuillier\Desktop\C#\TD3 debug\TD3 debug\obj\Debug\TD3 debug.pdb
